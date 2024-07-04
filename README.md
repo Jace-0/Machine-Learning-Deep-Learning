@@ -15,7 +15,7 @@ The results were astounding. The farmers followed Athena's recommendations and s
 Maya's success story spread far and wide, inspiring other scientists and engineers to explore the potential of ML and DL in various fields. From healthcare to environmental conservation, the applications were limitless. And so, in that small town, a new era of intelligent, data-driven solutions began, all thanks to the power of Machine Learning and Deep Learning.
 
 
-
+Goodbye.
 
 
 
